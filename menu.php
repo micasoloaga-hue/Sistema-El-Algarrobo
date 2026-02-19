@@ -30,3 +30,10 @@ if ($_SESSION['rol'] == 'recepcionista') {
 </ul>
 
 <a href="logout.php">Cerrar sesión</a>
+
+<hr>
+
+<p><strong>Desarrollado por:</strong> Florencia Micaela Soloaga</p>
+<p><strong>DNI:</strong> 40398797</p>
+<p><strong>Email:</strong> mica.soloaga@gmail.com</p>
+
